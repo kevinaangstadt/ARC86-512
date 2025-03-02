@@ -1,4 +1,4 @@
-progs = nop
+progs = nop addr_test
 
 all: $(addsuffix .bin, $(progs))
 
